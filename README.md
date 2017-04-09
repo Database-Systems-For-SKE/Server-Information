@@ -2,9 +2,10 @@
 
 Update project
 1. Frondend
-    1. updated `8/3/2560-15.45`
+    1. updated `8/4/2560-15.45`
 2. Backend
-    1. updated `8/3/2560-15.45`
+    1. updated `8/4/2560-15.45`
+    2. updated `9/4/2560-16.06`
     
 |CPU  |Memory|Disk I/O                 |Disk Usage|Band Width|
 |-----|------|-------------------------|----------|----------|
